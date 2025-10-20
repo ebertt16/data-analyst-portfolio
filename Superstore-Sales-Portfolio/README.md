@@ -1,7 +1,10 @@
 # Superstore Sales Portfolio Dashboard (Excel)
 
-**Files:** `Dashboard.pdf`, `Executive-Summary.pdf`, `Project.xlsx`
-
+**Files:** 
+- `Executive Summary - Superstore Sales Performance.pdf`
+- `Superstore Sales Portfolio Dashboard.pdf`
+- `Superstore Sales Project.xlsx`
+  
 ## Overview
 Sales & margin analysis by region, category, products, and time (2014–2017).
 
