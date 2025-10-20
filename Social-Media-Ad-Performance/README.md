@@ -3,7 +3,7 @@
 **Files:**
 - `Executive Summary - Social Media Advertisement Performance.pdf`
 - `Social Media Advertisement Portfolio Dashboard.pdf`
-- `Project.xlsx`
+- `Social Media Advertisement Performance Project.xlsx`
 
 ## Overview
 Campaign performance across Facebook & Instagram: Spend, Clicks, CTR, CPA, ROAS, and segment drill-downs.
