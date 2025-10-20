@@ -10,7 +10,7 @@ Excel dashboard analyzing insurance portfolio performance by region, policy type
 
 ## Key Findings (from the dashboard)
 - **Overall:** ~$25.7M premiums vs ~$41.4M claims → **161% loss ratio** and **–61% profit margin**.
-- **Regions:** West worst (~–73% margin); Midwest least severe (~–51%).
+- **Regions:** West worst (–73% margin); Midwest least severe (–51%).
 - **Policy Types:** **Auto (~290% loss)** and **Home (~151%)** drive steepest losses; **Health (~13%)** and **Life (~0%)** remain sustainable.
 - **Demographics:** Profitability improves with age; **males outperform overall**; females converge in 66+.
 - **Time Trend:** Claims rose 2023–2024 while premiums stayed flat, widening the loss gap.
