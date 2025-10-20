@@ -1,9 +1,9 @@
 # Insurance Portfolio Dashboard (Excel)
 
 **Files**
-- `Dashboard.pdf` – final dashboard
-- `Executive-Summary.pdf` – 1–2 page summary
-- `Project.xlsx` – Excel workbook (claims, premiums, KPIs)
+- `Insurance Portfolio Dashboard.pdf` 
+- `Executive Summary - Insurance Risk.pdf` 
+- `Insurance Portfolio.xlsx`
 
 ## Overview
 Excel dashboard analyzing insurance portfolio performance by region, policy type, demographics, and time (2022–2024). Measures total premiums, claims, loss ratio, and profit margin to assess underwriting performance.
