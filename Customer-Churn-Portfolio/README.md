@@ -1,6 +1,9 @@
 # Customer Churn Portfolio Dashboard (Excel)
 
-**Files:** `Dashboard.pdf`, `Executive-Summary.pdf`, `Project.xlsx`
+**Files:** 
+-`Executive Summary - Customer Churn Analysis.pdf`
+-`Customer Churn Portfolio Dashboard.pdf`
+-`Customer Churn Portfolio Project.xlsx`
 
 ## Overview
 Churn analysis by demographics, tenure, payment method, internet & add-on services.
