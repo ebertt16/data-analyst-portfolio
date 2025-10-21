@@ -1,10 +1,10 @@
 # 📊 Data Analyst Portfolio (Excel Dashboards)
 
-**Author:** Tadeusz Ebert
-**Email:** ebertt1616@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/tadeusz-ebert
-**Year:** 2025  
-
+**Author:** Tadeusz Ebert  
+**Email:** ebertt1616@gmail.com    
+**LinkedIn:** https://www.linkedin.com/in/tadeusz-ebert  
+**Year:** 2025    
+  
 ---
 
 ### Overview  
