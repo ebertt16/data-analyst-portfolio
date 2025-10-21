@@ -1,6 +1,11 @@
 # Superstore Sales Portfolio Dashboard (Excel)
 
-**Files:** 
+Author: Tadeusz Ebert  
+Email: ebertt16@gmail.com  
+LinkedIn: https://www.linkedin.com/in/tadeusz-ebert  
+Year: 2025  
+
+## **Files:** 
 - `Executive Summary - Superstore Sales Performance.pdf`
 - `Superstore Sales Portfolio Dashboard.pdf`
 - `Superstore Sales Project.xlsx`
