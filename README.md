@@ -1,4 +1,4 @@
-# 📊 Data Analyst Portfolio (Excel Dashboards)
+# Data Analyst Portfolio (Excel Dashboards)
 
 **Author:** Tadeusz Ebert  
 **Email:** ebertt16@gmail.com    
