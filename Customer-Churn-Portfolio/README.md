@@ -5,7 +5,7 @@ Email: ebertt16@gmail.com
 LinkedIn: https://www.linkedin.com/in/tadeusz-ebert  
 Year: 2025  
 
-**Files:** 
+## **Files:** 
 - `Executive Summary - Customer Churn Analysis.pdf`
 - `Customer Churn Portfolio Dashboard.pdf`
 - `Customer Churn Portfolio Project.xlsx`
