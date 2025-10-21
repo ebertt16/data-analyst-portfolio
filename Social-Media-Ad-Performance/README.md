@@ -8,7 +8,7 @@ Year: 2025
 ## **Files:**
 - `Executive Summary - Social Media Advertisement Performance.pdf`
 - `Social Media Advertisement Portfolio Dashboard.pdf`
-- [Full Power Query Project (Google Sheets)](https://docs.google.com/spreadsheets/d/1CcdaOKyMpuhVNtWArhi2EaFx1jLAqp-b/edit)
+- [Full Power Query Project (Google Sheets)]([https://docs.google.com/spreadsheets/d/1CcdaOKyMpuhVNtWArhi2EaFx1jLAqp-b/edit](https://drive.google.com/drive/folders/1qpYBhcaeswE_59iWM2cVL-LqQfDBzUYp?usp=drive_link))
 
   
 
