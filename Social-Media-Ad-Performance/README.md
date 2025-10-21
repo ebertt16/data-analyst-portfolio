@@ -8,7 +8,7 @@ Year: 2025
 ## **Files:**
 - `Executive Summary - Social Media Advertisement Performance.pdf`
 - `Social Media Advertisement Portfolio Dashboard.pdf`
-- [Social Media Advertisement Performance Project](https://docs.google.com/spreadsheets/d/1CcdaOKyMpuhVNtWArhi2EaFx1jLAqp-b/edit)
+- [Social Media Advertisement Performance Project Excel](https://docs.google.com/spreadsheets/d/1CcdaOKyMpuhVNtWArhi2EaFx1jLAqp-b/edit)
   
 
 ## Overview
