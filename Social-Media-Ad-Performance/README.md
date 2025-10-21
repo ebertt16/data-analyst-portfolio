@@ -5,7 +5,7 @@ Email: ebertt16@gmail.com
 LinkedIn: https://www.linkedin.com/in/tadeusz-ebert  
 Year: 2025  
 
-**Files:**
+## **Files:**
 - `Executive Summary - Social Media Advertisement Performance.pdf`
 - `Social Media Advertisement Portfolio Dashboard.pdf`
 - `Social Media Advertisement Performance Project.xlsx`
