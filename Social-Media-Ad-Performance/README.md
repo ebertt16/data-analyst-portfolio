@@ -8,7 +8,7 @@ Year: 2025
 ## **Files:**
 - `Executive Summary - Social Media Advertisement Performance.pdf`
 - `Social Media Advertisement Portfolio Dashboard.pdf`
-- - [Full Social Media Ad Performance Project (Google Drive Folder)](https://drive.google.com/drive/folders/1qpYBhcaeswE_59iWM2cVL-LqQfDBzUYp?usp=drive_link)
+- [Full Social Media Ad Performance Project (Google Drive Folder)](https://drive.google.com/drive/folders/1qpYBhcaeswE_59iWM2cVL-LqQfDBzUYp?usp=drive_link)
 
 
   
