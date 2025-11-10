@@ -1,7 +1,7 @@
 Superstore Sales Power BI Dashboard
 
-Tools: Power BI, DAX, Data Modeling
-Dataset: Global Superstore (2014–2017)
+- Tools: Power BI, DAX, Data Modeling
+- Dataset: Global Superstore (2014–2017)
 
 Key Objectives
 - Visualize sales, profit, and discount performance across regions, products, and states.
