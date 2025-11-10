@@ -8,9 +8,9 @@
 ---
 
 ### Overview  
-This portfolio showcases Excel-based analytics dashboards built to demonstrate core data analysis, KPI reporting, and business insight storytelling skills.  
+This portfolio showcases Excel & PowerBI analytics dashboards built to demonstrate core data analysis, KPI reporting, and business insight storytelling skills.  
 Each project includes:
-- A fully interactive **Excel dashboard**
+- A fully interactive **Excel and/or PowerBI dashboard**
 - A concise **Executive Summary (PDF)** with key findings and recommendations
 - Clear segmentation by topic and business domain
 
